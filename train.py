@@ -350,7 +350,7 @@ if __name__ == '__main__':
         "predict_file":r"D:/NLP_project/data/SQuA2.0/test-v2.0-vi.json",
         "per_gpu_train_batch_size": 8, 
         "max_steps": -1,
-        "num_train_epochs": 6,
+        "num_train_epochs": 30,
         "learning_rate": 2e-5,   
         "adam_epsilon": 1e-8,
         "warmup_steps": 100,   
